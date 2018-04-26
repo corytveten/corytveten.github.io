@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning Software Development"
-date:       2018-04-25 17:20:57 +0000
+date:       2018-04-25 13:20:57 -0400
 permalink:  learning_software_development
 ---
 
@@ -12,5 +12,4 @@ My mind began to change when I spoke with a few friends who had begun to study s
 
 Specifically, I found myself attracted to the language aspects of programming. The idea of syntax and semantics are central to both programming and natural languages. I am not able to go into detailed discussion of the relationship between the two; in fact, I admit my recognition of an analogy between the two is superficial. Nevertheless, thinking about the new-to-me field of software development in this context allowed me an entry point. 
 
-So, now that I have opened these new mental pathways and begun to conceptualize myself as a computer programmer, the field is no longer unthinkable, it is now simply intimidating.  
 
