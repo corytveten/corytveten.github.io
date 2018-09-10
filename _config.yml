@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Cory Tveten
+title: Programming Block
 header-img: img/home-bg.png
 email: corytveten@gmail.com
-copyright_name: corytveten
+copyright_name: Cory Tveten
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding with Ruby 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  corytveten
-learn_profile: corytveten
-email_username: corytveten@gmail.com
 
 # Build settings
 markdown: kramdown
